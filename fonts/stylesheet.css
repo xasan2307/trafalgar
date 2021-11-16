@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Mulish';
+    src: url('font/Mulish-SemiBold.woff2') format('woff2'),
+        url('font/Mulish-SemiBold.woff') format('woff'),
+        url('font/Mulish-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mulish';
+    src: url('font/Mulish-Light.woff2') format('woff2'),
+        url('font/Mulish-Light.woff') format('woff'),
+        url('font/Mulish-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mulish';
+    src: url('font/Mulish-Regular.woff2') format('woff2'),
+        url('font/Mulish-Regular.woff') format('woff'),
+        url('font/Mulish-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mulish';
+    src: url('font/Mulish-Bold.woff2') format('woff2'),
+        url('font/Mulish-Bold.woff') format('woff'),
+        url('font/Mulish-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
